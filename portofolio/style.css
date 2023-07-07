@@ -1,0 +1,24 @@
+*, html {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+  color: #2C3E50;
+}
+h3 {
+  color: #2C3E50;
+}
+Body {
+  background-color: #D5AAFF;
+  margin: 3;
+}
+Img {
+  border-radius: 80%;
+}
+nav {
+  background-color :darkorange;
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  position: sticky;
+  top: 0;
+}
